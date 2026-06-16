@@ -1,0 +1,7 @@
+# Local environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
